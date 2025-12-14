@@ -84,3 +84,4 @@ endmodule
 
 
 **RESULTS**
+Thus the basic logic gates are studied and the truth table are verified
